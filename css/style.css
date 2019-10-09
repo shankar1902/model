@@ -1,0 +1,51 @@
+body
+{
+    background-image: url(..//image/img2.jpg);
+}
+h1
+{
+    color:royalblue;
+    padding: 20px;
+    outline: dotted plum;
+    text-shadow: 1.5px 1.5px  white;
+    
+}
+p
+{
+    color:red;
+    padding:40px;
+    outline:double palevioletred;
+    overflow: scroll;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: hidden;
+    letter-spacing: 9px;
+    font-family: blue serif;
+}
+.pes
+{
+    list-style-type: circle;
+    color: whitesmoke;
+    text-indent: 50px ;
+}
+a:hover
+{
+    background-color:red;
+    color: black;
+}
+table,th,td{
+    border:ridge;
+    width: 800px;
+    text-indent: 30px;
+}
+
+th
+{
+    background-color:black;
+    color: aliceblue;
+    text-align: center;
+}
+td{
+    color:white;
+    background-color: orchid;
+}
